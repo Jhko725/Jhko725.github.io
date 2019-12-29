@@ -292,3 +292,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Collections
+collections:
+  Lagavulin:
+    output: true
+    permalink: /:collection/:path/
+
+  Macallan:
+    output: true
+    permalink: /:collection/:path/
