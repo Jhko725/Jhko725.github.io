@@ -2,12 +2,15 @@
 permalink: /tasting_notes_EN/
 ---
 
-{% assign Scotches = site.categories.EN | where_exp: "post", "post.categories contains 'Scotch'" %}
-
-<ul>
-  {% for post in Scotches %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for page in site.pages %}
+  {% if page.categories contains 'EN' and page.categories contains 'Scotch' %}
+    <div class="item">
+      <h3><a href="{{ page.url }}">
+        {{ page.title }}
+      </a></h3>
+  
+      <p>{{ page.description }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+  
