@@ -1,6 +1,7 @@
 ---
 title: Lagavulin 25 (200th Anniversary Bottling)
-layout: page
+layout: single
+author_profile: true
 genre: Scotch
 age: 25
 abv: 51.7
