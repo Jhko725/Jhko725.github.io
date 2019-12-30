@@ -2,7 +2,7 @@ main:
   - title: "Blog"
     url: /
   - title: "Tasting Notes (EN)"
-    url: /
+    url: /tasting_notes_EN/
   - title: "Tasting Notes (KR)"
     url: /
   - title: "External Link"
