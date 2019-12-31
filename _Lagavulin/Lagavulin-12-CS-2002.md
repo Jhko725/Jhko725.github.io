@@ -8,7 +8,7 @@ abv: 57.8
 score: 89
 ---
 
-![photo]({{ site.url }}{{ site.baseurl }}/assets/images/Lagavulin12CS2002.jpg)
+![photo]({{ site.url }}{{ site.baseurl }}/assets/images/Lagavulin12CS2002.JPG)
 
 Quite an old vintage, this one. In fact there was quite some bit of evaporation and the cork broke while opening. Quite excited to try this one.
 
