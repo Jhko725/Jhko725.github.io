@@ -1,6 +1,7 @@
 ---
 title: Lagavulin 12 CS (2002 Vintage)
-layout: page
+layout: single
+author_profile: true
 genre: Scotch
 age: 12
 abv: 57.8

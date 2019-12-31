@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joon-Hyuk Ko"
 description              : "Mostly whisky tasting notes. Perhaps a little something else now and then."
-url                      : "https://Jhko725.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Jhko725.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jhko725/Jhko725.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -300,7 +300,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      
 # Collections
 collections:
   Lagavulin:

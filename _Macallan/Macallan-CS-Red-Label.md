@@ -1,6 +1,7 @@
 ---
 title: Macallan Cask Strength (Red Label)
-layout: page
+layout: single
+author_profile: true
 genre: Scotch
 age: NAS
 abv: 57.4
