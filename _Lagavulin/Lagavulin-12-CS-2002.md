@@ -4,19 +4,21 @@ layout: single
 header:
     teaser: assets/images/Lagavulin12CS2002.JPG
 sidebar:
-    - title: "Distlllery"
-      text: "Lagavulin"
-    - title: "Bottler"
-      text: "Distilery Bottling"
-    - title: "Bottling Series"
-      text: "1nd Release"
-    - title: "Bottled"
-      text: "2002"
-    - title: "Age"
-      text: "12"
-    - title: "Abv"
-      text: "58"
-    - title: 
+    - title: "Bottling Information"
+      image: assets/images/Lagavulin12CS2002.JPG
+      children:
+        - title: "Distlllery"
+          text: "Lagavulin"
+        - title: "Bottler"
+          text: "Distilery Bottling"
+        - title: "Bottling Series"
+          text: "1nd Release"
+        - title: "Bottled"
+          text: "2002"
+        - title: "Age"
+          text: "12"
+        - title: "Abv"
+          text: "58"
 genre: Scotch
 age: 12
 abv: 57.8
