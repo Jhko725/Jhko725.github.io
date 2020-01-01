@@ -1,6 +1,8 @@
 ---
-title: Lagavulin 12 CS (2002 Vintage)
+title: "Lagavulin 12 CS (2002 Vintage)"
 layout: single
+header:
+    teaser: assets/images/Lagavulin12CS2002.JPG
 author_profile: true
 genre: Scotch
 age: 12
