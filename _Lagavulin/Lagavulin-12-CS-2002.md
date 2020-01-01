@@ -5,7 +5,6 @@ header:
     teaser: assets/images/Lagavulin12CS2002.JPG
 sidebar:
     - title: "Bottling Information"
-      image: assets/images/Lagavulin12CS2002.JPG
       children:
         - title: "Distlllery"
           text: "Lagavulin"
